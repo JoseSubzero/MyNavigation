@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyNavigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tvFragmentInit">Fragment Inicio</string>
+    <string name="btnInit1">Fragment 1</string>
+    <string name="btnInit2">Fragment 2</string>
+    <string name="tvfrag1">1</string>
+    <string name="btnFrag1Atras">Atras</string>
+    <string name="tvfrag2">2</string>
+    <string name="btnFrag2Atras">Atras</string>
+    <string name="btnFrag2Siguiente">Siguiente</string>
+    <string name="tvfrag3">3</string>
+    <string name="btnFrag3Atras">Atras</string>
+    <string name="btnFrag3Inicio">Inicio</string>
+    <string name="tvContador">0</string>
+</resources>
